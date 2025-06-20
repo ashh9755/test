@@ -8,16 +8,6 @@ for the last year.
 
 This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
 
-## Check my other projects
-
-I created this project more than five years ago. Since then, I have built several **much more valuable
-tools** which I encourage you to check:
-
-- [sol4k](https://github.com/sol4k/sol4k) - Kotlin, JVM, and Android client for Solana
-- [podil.js](https://github.com/podiljs/podil) - Lightweight and secure database schema migration tool
-- [goxygen](https://github.com/Shpota/goxygen) - Web project generator
-- [zeit](https://github.com/Shpota/zeit) - A Fitbit clock face for learners of the German language
-
 
 ## What it looks like
 
